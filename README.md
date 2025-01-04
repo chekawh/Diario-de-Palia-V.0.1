@@ -4,7 +4,7 @@
 Link de descarga: https://mega.nz/file/AldzGbLa#Jt3FBh83ZqDCdBU61LJneUjG-qhfOq-kwlAF2B4BikA
 </br>
 # NOTAS DEL PARCHE V0.1
-</br></br>
+
 ===============================</br>
 Menú principal</br>
 ===============================</br></br>
