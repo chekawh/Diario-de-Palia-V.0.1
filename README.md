@@ -23,3 +23,10 @@ Interfaz Gráfica</br>
 Botones principales y de accesos</br>
 Fotos y fondos de pantallas.</br>
 Copyright
+
+</br></br>
+Redes sociales:</br>
+Youtube: https://www.youtube.com/@PaliaComunidadSpain</br>
+Tik Tok: https://www.tiktok.com/@paliacomunidadspain</br>
+Instagram: https://www.instagram.com/paliacomunidadspain/</br>
+Discord: https://discord.gg/vzCtQkb9yX</br>
