@@ -5,21 +5,21 @@ Link de descarga: https://mega.nz/file/AldzGbLa#Jt3FBh83ZqDCdBU61LJneUjG-qhfOq-k
 </br>
 # NOTAS DEL PARCHE V0.1
 </br>
-===============================
+===============================</br>
 Menú principal</br>
-===============================
+===============================</br>
   Personajes -> Se ha añadido todos los personajes actuales del juego hasta la fecha actual (04/01/2025). Se ha incluido Nombre del personaje, Tienda NPC, Romance, Piedra Estelar.</br>
   Maji Market -> Se ha añadido todas las tiendas del Maji Market hasta la fecha actual (04/01/2025). Se ha añadido todos los productos y precios actuales.</br>
   Templo nocturno -> Se ha añadido todos los templos actuales en Palia (04/01/2025). Se ha añadido todos los items de los templos.</br>
-===============================
-Menú Superior
-===============================
-Contacto
-Acerca de
-Versión
-===============================
-Interfaz Gráfica
-===============================
-Botones principales y de accesos
-Fotos y fondos de pantallas.
+===============================</br>
+Menú Superior</br>
+===============================</br>
+Contacto</br>
+Acerca de</br>
+Versión</br>
+===============================</br>
+Interfaz Gráfica</br>
+===============================</br>
+Botones principales y de accesos</br>
+Fotos y fondos de pantallas.</br>
 Copyright
