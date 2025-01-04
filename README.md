@@ -2,7 +2,7 @@
 ![asdad](https://github.com/user-attachments/assets/0e4e6706-59e4-4f8f-b685-33774868c9e1)
 </br></br>
 Link de descarga: https://mega.nz/file/AldzGbLa#Jt3FBh83ZqDCdBU61LJneUjG-qhfOq-kwlAF2B4BikA
-</br>
+</br></br>
 # NOTAS DEL PARCHE V0.1
 
 ===============================</br>
